@@ -3,6 +3,7 @@
 ## 1. Clone the Repository
 
 ```bash
+#Make sure you're in the right directory
 1.
 git clone https://github.com/your-username/blossom-v0.1.git
 cd blossom-v0.1
